@@ -767,14 +767,7 @@
 
 
                             }
-                            .line {
-                                height: 141%;
-                                width: 1px;
-                                position: absolute;
-                                margin-top: 30px;
-                                margin-bottom: 30px;
-                                background: #333;
-                            }
+
                             .News-text-1 {
                                 width: initial;
                                 height: 20%;
@@ -855,9 +848,6 @@
                             
                             
                             @media only screen and (max-width: 1000px) {
-                                .line{
-                                    display: none;
-                                }
                                 .News-M-div {
                                     width: 100%;
                                 }
